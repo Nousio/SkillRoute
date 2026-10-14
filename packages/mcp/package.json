@@ -17,7 +17,7 @@
   "dependencies": {
     "@skillroute/core": "0.4.3",
     "@skillroute/daemon": "0.4.3",
-    "@modelcontextprotocol/sdk": "^1.29.0"
+    "@modelcontextprotocol/sdk": "^1.32.1"
   },
   "scripts": {
     "build": "tsc -b",
